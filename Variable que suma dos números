@@ -1,7 +1,7 @@
 <! DOCTYPE html>
 <html>
 <cuerpo>
-<h2> Sumar dosvariables </h2>
+<h2> Sumar dos variables </h2>
 <p> x, y y z son variables </p>
 <p id= "demo"></p>
 <script>
