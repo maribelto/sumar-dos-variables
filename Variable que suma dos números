@@ -2,8 +2,8 @@
 <html>
 <cuerpo>
 <h2> Sumar dos variables </h2>
-<p> x, y y z son variables </p>
-<p id= "demo"></p>
+<p> x,y 
+<p id = "demo"> </p>
 <script>
 var x=5;
 var y=6;
