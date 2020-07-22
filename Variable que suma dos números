@@ -1,0 +1,14 @@
+<! DOCTYPE html>
+<html>
+<cuerpo>
+<h2> Sumar dosvariables </h2>
+<p> x, y y z son variables </p>
+<p id= "demo"></p>
+<script>
+var x=5;
+var y=6;
+var z=x+y;
+documento, getElementByid ("demo"),inter HTML= "El valor de z es:" +z;
+</script>
+</body>
+</html>
