@@ -1,8 +1,8 @@
 <! DOCTYPE html>
 <html>
-<cuerpo>
+<body>
 <h2> Sumar dos variables </h2>
-<p> x,y 
+<p> x,y y z son variables </p>
 <p id = "demo"> </p>
 <script>
 var x=5;
